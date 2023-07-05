@@ -26,6 +26,7 @@ npm install
 
 Start the application by running the following command in the project directory:
 
+Download the expo via play store or app store. Open the Expo, create an account. Then log in with the created account.Later; 
 npm start /expo start / npx expo start
 
 Scan the QR code displayed in your browser or select your development environment to open Expo Developer Tools.
